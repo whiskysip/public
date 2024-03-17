@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Homepage Widget Lock test
+// @name         Homepage Widget Lock
 // @namespace    http://tampermonkey.net/
-// @version      2024-03-17
+// @version      1.0
 // @description  Prevents the widgets so they can't be moved by accident by removing the move button
 // @author       ChilliKing
 // @match        https://www.torn.com/index.php
