@@ -1,9 +1,11 @@
 // ==UserScript==
-// @name         Homepage Widget Lock
-// @namespace    http://tampermonkey.net/
+// @name         Homepage-Widget-Lock
+// @namespace    whiskysip.torn.chilliking.userscripts
 // @version      1.0
 // @description  Prevents the widgets so they can't be moved by accident by removing the move button
-// @author       ChilliKing
+// @author       ChilliKing [2949201]
+// @license      GNU GPLv3
+// @run-at       document-start
 // @match        https://www.torn.com/index.php
 // @grant        none
 // ==/UserScript==
